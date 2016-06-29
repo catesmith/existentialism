@@ -1,2 +1,2 @@
 # existentialism
-A place to practice control flow.
+A place to practice switch.
